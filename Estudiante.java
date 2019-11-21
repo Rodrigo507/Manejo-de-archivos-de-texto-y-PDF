@@ -16,7 +16,8 @@ public class Estudiante implements Comparable<Estudiante>{
         this.turno=tur;
         this.anno=an;
     }
-    /*METODOS */
+    
+	/*METODOS */
     public String getcedula() {
         return(this.cedula);
 }
