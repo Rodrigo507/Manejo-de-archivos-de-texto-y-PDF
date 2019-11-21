@@ -1,0 +1,276 @@
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   15/11/2018                                  DIRECCION DE INFORMATICA                Pag. 1 de 5
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 2  SEMESTRE 2018
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 02  INGENIERIA EN INFORMATICA
+ Carrera: 01  LIC. DE INGENIERIA EN INFORMATICA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+00 EC 0043 00525 RINCON                         LEONARDO                       M    Diurno    2018
+01 00 0736 01088 DELGADO                        DANIEL                         M    Diurno    2018
+02 00 0732 00727 AGUILAR QUIROS                 FAUSTINO                       M    Diurno    2018
+02 00 0740 01806 PEREZ                          CELSO                          M    Diurno    2018
+04 00 0802 02351 MORALES                        JESUS                          M    Diurno    2018
+06 00 0711 01562 VILLARREAL                     FERNANDO                       M    Diurno    2018
+06 00 0719 00043 QUINTERO                       RODOLFO                        M    Diurno    2018
+06 00 0719 02441 VEGA                           DOMINGO                        M    Diurno    2018
+06 00 0720 01834 AGRAZAL M.                     MARIANELA                      F    Diurno    2018
+06 00 0723 01121 BERNAL GONZÁLEZ                LUIS CARLOS                    M    Diurno    2018
+06 00 0724 00160 CAMPOS                         CARLOS                         M    Nocturno  2018
+08 00 0908 01108 RIVERA                         WILFREDO                       M    Diurno    2018
+08 00 0920 02458 DE GRACIA M.                   JAFET A.                       M    Diurno    2018
+08 00 0958 00926 MOJICA RUJANO                  MARVIN ABEL                    M    Diurno    2018
+09 00 0731 02028 URRIOLA                        KRISTEL                        F    Diurno    2018
+09 00 0735 00569 GONZALEZ                       YOLMARYS                       F    Diurno    2018
+09 00 0739 00798 MADRID                         TOMAS                          M    Diurno    2018
+09 00 0741 00993 TENORIO                        DORALIS                        F    Diurno    2018
+09 00 0745 01191 PEREZ                          CRISTIAN                       M    Diurno    2018
+09 00 0747 00776 ARENA                          IRIS                           F    Diurno    2018
+09 00 0747 01975 ALMANZA                        JEANCARLO                      M    Diurno    2018
+09 00 0747 02404 BERNAL                         DIANA                          F    Diurno    2018
+09 00 0749 00188 ARMUELLES                      TOMAS                          M    Diurno    2018
+09 00 0749 02169 MOJICA CAMÑO                   DIOMAR ELIECER                 M    Diurno    2018
+09 00 0749 02464 CONCEPCION                     ROCIO                          F    Diurno    2018
+09 00 0751 00807 CARPINTERO                     ALICIA                         F    Diurno    2018
+09 00 0751 01147 REYES                          OMAR                           M    Diurno    2018
+09 00 0751 01500 CONCEPCION                     CARLOS                         M    Diurno    2018
+09 00 0751 01708 CASTILLO                       MARYENIS                       F    Diurno    2018
+09 00 0752 00555 TUÑON                          DELVIN                         M    Diurno    2018
+09 00 0752 00883 GOMEZ M.                       KENIA E.                       F    Diurno    2018
+09 00 0752 01024 PINZON                         JORGE                          M    Diurno    2018
+09 00 0752 01294 BARRIA                         ELOY                           M    Diurno    2018
+09 00 0752 02417 JIMENEZ                        DIEGO                          M    Diurno    2018
+09 00 0752 02479 CASTILLO                       GABRIEL                        M    Diurno    2018
+09 00 0753 00332 ALVARADO VALDES                STEVEN KHAIL                   M    Diurno    2018
+09 00 0753 01284 GONZALEZ                       KRYSTIN                        F    Diurno    2018
+09 00 0753 01320 SANTOS                         ROSMERY                        F    Diurno    2018
+09 00 0753 01905 HERNANDEZ                      DEYVIS                         M    Diurno    2018
+09 00 0754 00312 ARRITOLA                       EDGAR                          M    Diurno    2018
+09 00 0754 00699 CEDEÑO B.                      GLORIS D.                      F    Diurno    2018
+09 00 0754 00724 MOJICA                         JOSUE                          M    Diurno    2018
+09 00 0754 01296 VERGARA                        JUAN                           M              2018
+09 00 0755 00422 BATISTA                        LEONARDO                       M    Diurno    2018
+09 00 0755 00685 DELGADO                        ANTHONY                        M    Diurno    2018
+09 00 0755 00833 MONTOYA                        DAVID                          M    Diurno    2018
+09 00 0755 00992 HERNANDEZ                      JEFTE                          M    Diurno    2018
+09 00 0755 01414 ORTIZ                          GENESIS                        F    Diurno    2018
+09 00 0755 01542 AGUDO                          JESÚS                          M    Diurno    2018
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   15/11/2018                                  DIRECCION DE INFORMATICA                Pag. 2 de 5
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 2  SEMESTRE 2018
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 02  INGENIERIA EN INFORMATICA
+ Carrera: 01  LIC. DE INGENIERIA EN INFORMATICA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0755 01785 BARRIA                         NORIEL                         M    Diurno    2018
+09 00 0756 00708 MADRID                         ELADIO                         M    Diurno    2018
+09 00 0756 00751 CANTO                          CARLOS                         M    Diurno    2018
+09 00 0756 01219 VILLARREAL                     ANDREINA                       F    Diurno    2018
+09 00 0756 01449 ABREGO                         JOSE                           M    Diurno    2018
+09 00 0757 00167 GARCIA                         ARLENYS                        F    Diurno    2018
+10 00 0712 01709 MARQUEZ                        ISRAEL                         M    Diurno    2018
+                                            -----------
+           Total de estudiantes :            56
+
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 01  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+00 EC 0002 13369 KNOWLES                        DESTENIE SHANAE                F    Nocturno  2018
+01 00 0743 02264 PIMENTEL                       ELIECER                        M    Nocturno  2018
+02 00 0724 01385 SANCHEZ                        EDGAR                          M    Nocturno  2018
+02 00 0739 01119 HERNANDEZ                      EDIS                           M    Nocturno  2018
+04 00 0801 02127 GARCIA                         ELIBIA                         F              2018
+06 00 0721 01074 GONZALEZ                       ELVIS                          M    Nocturno  2018
+08 00 0496 00177 CAMARGO                        ERNESTO                        M    Nocturno  2018
+08 00 0830 01823 BATISTA                        EFREN                          M              2018
+08 00 0928 00807 CASTILLO                       YENNIFER                       F    Diurno    2018
+08 00 0930 01627 ALMENGOR                       MILEIDIS                       F    Diurno    2018
+08 00 0931 00136 ROMERO                         JEREMY                         M    Vespertin 2018
+08 00 0941 00264 RODRIGUEZ                      GLADYS                         F    Nocturno  2018
+08 00 0944 01326 CONCEPCION                     CHRISTOPHER                    M              2018
+09 00 0220 00551 RODRIGUEZ                      GABINO                         M    Nocturno  2018
+09 00 0703 02489 MENDEZ                         PASTOR                         M    Diurno    2018
+09 00 0713 00533 ITURRALDE PEÑA                 EDITH LORAIDA                  F    Vespertin 2018
+09 00 0728 00769 CASTILLERO                     ANTONIO                        M    Nocturno  2018
+09 00 0728 01176 ALAIN                          ALEXANDER                      M    Diurno    2018
+09 00 0730 01867 CABALLERO                      LUIGI                          M    Nocturno  2018
+09 00 0731 02062 BORDONES MORALES               SIMEON                         M    Diurno    2018
+09 00 0732 01670 DOMINGUEZ                      KATIA                          F    Nocturno  2018
+09 00 0734 01647 COGLEY                         JOSE                           M              2018
+09 00 0737 00978 RODRIGUEZ FLORES               RAYSA  ZAYIRA                  F    Diurno    2018
+09 00 0737 01560 GARCIA                         EDILBERTO                      M    Nocturno  2018
+09 00 0738 01641 ABREGO                         ALICIA                         F    Diurno    2018
+09 00 0739 01499 RIOS                           ELIDIO                         M    Nocturno  2018
+09 00 0740 00274 GARCIA SIBALA                  MARIBEL DEL CARMEN             F    Diurno    2018
+09 00 0740 02342 CAMARENA                       JOSE                           M    Nocturno  2018
+09 00 0741 01037 DE LEON                        MADELEY                        F    Nocturno  2018
+09 00 0741 01053 ZAMORA                         KATHERINE                      F    Diurno    2018
+09 00 0741 02164 ESPINOSA                       JOSE                           M    Diurno    2018
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   15/11/2018                                  DIRECCION DE INFORMATICA                Pag. 3 de 5
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 2  SEMESTRE 2018
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 01  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0742 00615 RODRIGUEZ                      LUIS ENRIQUE                   M    Diurno    2018
+09 00 0742 01134 PEREZ                          LUIS                           M    Nocturno  2018
+09 00 0744 02353 ATENCIO                        ARLETH                         F              2018
+09 00 0745 00183 VEGA                           DEMETRIO                       M    Diurno    2018
+09 00 0745 01585 FRANCO                         KEVIN                          M    Nocturno  2018
+09 00 0745 01602 SANTOS                         DIOCELINDA                     F    Nocturno  2018
+09 00 0746 01481 SANTOS                         MARIELA                        F    Diurno    2018
+09 00 0746 01511 PEREZ                          DERICK                         M              2018
+09 00 0746 01850 MOJICA                         JEREMIAS                       M    Nocturno  2018
+09 00 0747 02214 CABALLERO TORIBIO              ARLENIS YARIELA                F    Nocturno  2018
+09 00 0748 00572 GUTIERREZ                      JORGE                          M    Diurno    2018
+09 00 0748 00943 RODRIGUEZ                      DANISELDA                      F    Diurno    2018
+09 00 0749 00300 GARCIA                         MARTA                          F              2018
+09 00 0749 01036 CASTILLO                       EDISON                         M    Nocturno  2018
+09 00 0749 01977 ALMANZA                        FRANCISCO                      M              2018
+09 00 0749 02192 PINEDA                         ELIZANDRO                      M    Nocturno  2018
+09 00 0750 01042 MENDOZA                        VICTORIA                       F    Nocturno  2018
+09 00 0750 01817 GONZALEZ                       SINTIA                         F    Diurno    2018
+09 00 0751 00304 MESA                           JOSE                           M    Diurno    2018
+09 00 0751 00995 BARRIA                         MOISES                         M    Diurno    2018
+09 00 0751 01281 SANTO                          REBECA                         F              2018
+09 00 0752 00324 BORDONES                       ELVIA                          F    Diurno    2018
+09 00 0752 00897 GRACIANI                       YERLING                        F    Diurno    2018
+09 00 0752 02200 CASTILLO                       ROSA                           F    Nocturno  2018
+09 00 0753 01313 BALLESTEROS                    JOEL                           M    Diurno    2018
+09 00 0754 00787 ARMUELLES                      KIARA                          F    Nocturno  2018
+09 00 0754 02296 MARTINEZ                       ELIZABETH                      F    Nocturno  2018
+09 00 0755 01469 SANJUR                         JORGE                          M              2018
+09 00 0755 02407 NACCARI                        ZABDI                          F    Nocturno  2018
+09 00 0756 01737 PEREZ                          KATHERINE                      F              2018
+09 00 0762 00199 SANTOS                         ADRIANO                        M    Vespertin 2018
+12 00 0700 00883 LOPEZ                          ABDIEL                         M    Diurno    2018
+12 00 0702 01722 GONZALEZ                       GISELA                         F              2018
+12 00 0713 00512 MENDOZA                        MIZAEL                         M    Nocturno  2018
+                                            -----------
+           Total de estudiantes :            65
+
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+04 00 0777 02219 EYSERIC                        MARIA                          F    Diurno    2018
+04 00 0799 00397 JIMENEZ                        BERNARDO                       M    Diurno    2018
+04 00 0812 00985 ACOSTA                         MARVIN                         M    Diurno    2018
+05 00 0716 00432 ALONSO                         ARACELLY                       F    Diurno    2018
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   15/11/2018                                  DIRECCION DE INFORMATICA                Pag. 4 de 5
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 2  SEMESTRE 2018
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+06 00 0721 02150 TROITIÑO                       REYNALDO                       M              2018
+06 00 0723 01419 CHAVEZ                         LILIBETH                       F              2018
+08 00 0886 01737 GONZALEZ                       EDGAR                          M              2018
+08 00 0933 01241 RANGEL                         DIDIANETH                      F    Diurno    2018
+09 00 0702 01527 GONZALEZ T.                    YENIZETH Y.                    F    Diurno    2018
+09 00 0720 01662 ABREGO                         ERICKA                         F    Nocturno  2018
+09 00 0740 00420 MUDARRA                        EDINSON                        M    Diurno    2018
+09 00 0741 01691 ABREGO                         HEYDI                          F    Diurno    2018
+09 00 0742 01707 QUIEL                          VANESSA                        F    Diurno    2018
+09 00 0742 02465 ARENAS                         MAYRA                          F    Diurno    2018
+09 00 0744 00726 GARCIA                         VANESSA                        F    Diurno    2018
+09 00 0744 00846 CALLES                         RIGOBERTO                      M    Diurno    2018
+09 00 0746 01258 JIMENEZ                        BERNABE                        M    Diurno    2018
+09 00 0746 01428 ORTIZ                          RAIMBET                        M    Diurno    2018
+09 00 0746 02292 HIDALGO                        ISMAEL                         M    Diurno    2018
+09 00 0748 01551 ARJONA                         JOSE LUIS                      M    Diurno    2018
+09 00 0748 01597 GONZALEZ                       YAIR                           M              2018
+09 00 0749 00254 RODRIGUEZ                      PORFIRIA                       F    Diurno    2018
+09 00 0749 01820 GONZALEZ                       CALIXTO                        M    Diurno    2018
+09 00 0750 00283 TERREROS                       MAHELYS                        F    Diurno    2018
+09 00 0750 00600 BALLESTEROS                    ESMERALDA                      F    Diurno    2018
+09 00 0750 00703 SANTOS                         RUBIELA                        M    Diurno    2018
+09 00 0750 01299 GARCIA GONZALEZ                ANDRES ANTONIO                 M    Nocturno  2018
+09 00 0750 01691 PINTO                          CHRISTOPHER                    M              2018
+09 00 0750 02212 APARICIO                       NORIELYS                       F    Diurno    2018
+09 00 0751 00179 DE GRACIA                      HECTOR                         M    Diurno    2018
+09 00 0751 00488 VARGAS                         NORIS                          F    Diurno    2018
+09 00 0751 00693 PITTY                          MARTHA                         F    Diurno    2018
+09 00 0751 01082 SANDOVAL                       AMAIRANYS                      F    Diurno    2018
+09 00 0751 01368 ACOSTA                         AMIR                           M              2018
+09 00 0751 02448 ABREGO                         DAVID                          M    Diurno    2018
+09 00 0752 00117 GONZALEZ                       NEYRIS                         F    Diurno    2018
+09 00 0752 01220 GUTIERREZ                      RODRIGO                        M              2018
+09 00 0752 01853 PINEDA                         JESUS                          M    Diurno    2018
+09 00 0752 02128 SANTAMARIA                     HENRY                          M              2018
+09 00 0752 02380 MUÑOZ                          JONATHAN                       M    Diurno    2018
+09 00 0753 00407 SANCHEZ                        JORGE                          M    Diurno    2018
+09 00 0753 01333 GUEVARA                        HECTOR                         M    Diurno    2018
+09 00 0753 01470 BATISTA                        ARLENYS                        F              2018
+09 00 0753 02209 RIOS                           EDGARDO                        M    Diurno    2018
+09 00 0754 01324 TORIBIO                        JESAID                         M    Diurno    2018
+09 00 0754 02029 OVIEDO                         MELANIE                        F              2018
+09 00 0755 00739 DUARTE                         JUAN                           M              2018
+09 00 0755 00803 SANCHEZ                        JOSE                           M              2018
+09 00 0756 00153 ALMANZA                        MARICARMEN                     F              2018
+09 00 0756 01123 RODRIGUEZ                      DAVID                          M              2018
+09 00 0756 01886 RODRIGUEZ                      GLENIS                         F    Diurno    2018
+09 00 0757 00202 RODRIGUEZ                      JAIRO                          M    Diurno    2018
+09 00 0761 01115 AGUILAR                        ADAN                           M    Diurno    2018
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   15/11/2018                                  DIRECCION DE INFORMATICA                Pag. 5 de 5
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 2  SEMESTRE 2018
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0766 00140 QUINTERO                       ILIANA                         F    Diurno    2018
+12 00 0704 00457 QUINTERO                       NORBERTO                       M    Vespertin 2018
+                                            -----------
+           Total de estudiantes :            55
+
