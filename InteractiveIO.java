@@ -18,7 +18,13 @@ class InteractiveIO {
 			System.exit(0);
 		}
 
+/********************************************************************** */
+		/*Este metodo se encarga de mostrar la lista de carreras de la CRUV-FIEC */
+		/*El usuario seleciona la carrera y lo devolvemos como String*/
+        public String getCarreta() {
+           Object[] options = {"LIC. DE INGENIERIA EN INFORMATICA","TECNICO EN INFORMATICA EDUCATIVA","LIC. PARA LA GESTION EDUC Y EMPRESA"};
 
-
+           return((String)JOptionPane.showInputDialog(null, "Seleccione...","UP-CRUV-FIEC", JOptionPane.QUESTION_MESSAGE, null, options, options[0]));
+        }
 
 }

@@ -1,0 +1,9 @@
+
+
+/**
+ * Informe
+ */
+public class Informe {
+
+    
+}
