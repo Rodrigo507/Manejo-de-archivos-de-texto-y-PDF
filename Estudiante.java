@@ -1,17 +1,19 @@
+
+
 /**
  * Estudiante
  */
 public class Estudiante implements Comparable<Estudiante>{//Implementamos la interface Comparable
     /*Encapsulación de los datos(atributos) del objeto*/
-    private final String cedula;
-    private final String apellido;
-    private final String nombre;
-    private final char sexo;
-    private final String turno;
-    private final int anno;
+    private  String cedula;
+    private  String apellido;
+    private  String nombre;
+    private  String sexo;
+    private  String turno;
+    private  int anno;
     /********************************************/
     //Contrutor del objeto
-    Estudiante (String ced,String ape,String nom,char se,String tur,int an){
+    Estudiante (String ced,String ape,String nom,String se,String tur,int an){
         this.cedula=ced;
         this.apellido=ape;
         this.nombre=nom;
@@ -34,7 +36,7 @@ public class Estudiante implements Comparable<Estudiante>{//Implementamos la int
     public String getNombre() {
         return(this.nombre);
     }
-    public char getSexo() {
+    public String getSexo() {
         return(this.sexo);
     }
     public String getTurno() {
@@ -47,13 +49,8 @@ public class Estudiante implements Comparable<Estudiante>{//Implementamos la int
     /*Metodo comparable*/
     /*Con este metodo realizamos la ordenacion del ArrayList*/
     @Override
-    public int compareTo(final Estudiante o) {
-        if (this.sexo < o.sexo) {
-            return -1;
-        }if (this.sexo == o.sexo) {
-            return 0;
-        }
-        return 1;
+    public int compareTo( Estudiante o) {
+        return(this.sexo.compareTo(o.sexo));
     }    
    
 }
