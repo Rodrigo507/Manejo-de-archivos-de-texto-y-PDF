@@ -83,25 +83,24 @@ public class Principal {
         }
 
         String carreraselect=mensajes.getCarreta();
+        /*Realizamos la ordenacion de los arrayList por sexo*/
+        /*La ordenacion se realiza con la interface COMPARABLE */
         Collections.sort(ingeneria);
         Collections.sort(tecnico);
         Collections.sort(licenciatura);
         if (carreraselect.equals("LIC. DE INGENIERIA EN INFORMATICA")) {
             for (Estudiante estudiante : ingeneria) {
-                //System.out.println(estudiante.getNombre()+" "+estudiante.getApellido());
-                crear.pdfinforme(ingeneria,carreraselect);
+                crear.pdfinforme(ingeneria,carreraselect,"lii.png");
                 mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
             }
         }else if (carreraselect.equals("TECNICO EN INFORMATICA EDUCATIVA")) {
             for (Estudiante estudiante : tecnico) {
-               // System.out.println(estudiante.getNombre()+" "+estudiante.getApellido());
-               crear.pdfinforme(tecnico,carreraselect);
+                crear.pdfinforme(tecnico,carreraselect,"tecnico.png");
                mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
             }
         }else if(carreraselect.equals("LIC. PARA LA GESTION EDUC Y EMPRESA")) {
             for (Estudiante estudiante : licenciatura) {
-                //System.out.println(estudiante.getNombre()+" "+estudiante.getApellido());
-                crear.pdfinforme(licenciatura,carreraselect);
+                crear.pdfinforme(licenciatura,carreraselect,"ligee.png");
                 mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
             }
         }
