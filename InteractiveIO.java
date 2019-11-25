@@ -6,19 +6,19 @@ class InteractiveIO {
 		//---------------------------------------------------------------------
 		public void desplegarError(String cadena,String tituloVentana) {
 			JOptionPane.showMessageDialog(null,cadena,tituloVentana, JOptionPane.ERROR_MESSAGE);
-			System.exit(0);
+
 		}
 		public void desplegarINFORMA(String cadena,String tituloVentana) {
 			JOptionPane.showMessageDialog(null,cadena,tituloVentana, JOptionPane.INFORMATION_MESSAGE);
-			System.exit(0);
+
 		}
 		public void desplegarWARNING(String cadena,String tituloVentana) {
 			JOptionPane.showMessageDialog(null,cadena,tituloVentana, JOptionPane.WARNING_MESSAGE);
-			System.exit(0);
+
 		}
 		public void desplegarQUESTION(String cadena,String tituloVentana) {
 			JOptionPane.showMessageDialog(null,cadena,tituloVentana, JOptionPane.QUESTION_MESSAGE);
-			System.exit(0);
+
 		}
 
 /********************************************************************** */
