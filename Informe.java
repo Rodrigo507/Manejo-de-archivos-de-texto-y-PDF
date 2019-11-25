@@ -65,12 +65,20 @@ public class Informe {
         e.printStackTrace();
     }
     }
-    public void txtinforme(ArrayList<Estudiante> carrera) throws IOException{
-        FileWriter txt = new FileWriter("Informe.txt");
+    public void txtinforme(ArrayList<Estudiante> carrera) {
+        try {
+            FileWriter txt = new FileWriter("Informe.txt");
+            
         for (Estudiante estudiante : carrera) {
-            txt.write(estudiante.getNombre()+"\t"+estudiante.getApellido()+"\t"+estudiante.getcedula()+"\t"+estudiante.getSexo()+"\n");
+            String z=String.format("%-20s %-17s %-17s %-10s%n", estudiante.getNombre(),estudiante.getApellido(),estudiante.getcedula(),estudiante.getSexo());
+            txt.write(z);
         }
         txt.close();
+        } catch (Exception e) {
+            //TODO: handle exception
+        }
+        
+        
     }
 
 }
