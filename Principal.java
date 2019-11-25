@@ -92,6 +92,7 @@ public class Principal {
         Collections.sort(licenciatura);
         if (carreraselect.equals("LIC. DE INGENIERIA EN INFORMATICA")) {
             crear.pdfinforme(ingeneria,carreraselect,"imagenes/lii.png");
+            crear.txtinforme(ingeneria);
             for (Estudiante estudiante : ingeneria) {
                 if (estudiante.getSexo().equals("M")) {
                     masculino++;
@@ -102,6 +103,7 @@ public class Principal {
             mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
         }else if (carreraselect.equals("TECNICO EN INFORMATICA EDUCATIVA")) {
             crear.pdfinforme(tecnico,carreraselect,"imagenes/tecnico.png");
+            crear.txtinforme(tecnico);
             for (Estudiante estudiante : tecnico) {
                 if (estudiante.getSexo().equals("M")) {
                     masculino++;
@@ -112,6 +114,7 @@ public class Principal {
             mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
         }else if(carreraselect.equals("LIC. PARA LA GESTION EDUC Y EMPRESA")) {
             crear.pdfinforme(licenciatura,carreraselect,"imagenes/ligee.png");
+            crear.txtinforme(licenciatura);
             for (Estudiante estudiante : licenciatura) {
                 if (estudiante.getSexo().equals("M")) {
                     masculino++;
