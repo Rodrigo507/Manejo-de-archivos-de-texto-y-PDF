@@ -2,7 +2,7 @@
 
 import com.itextpdf.text.Chunk;
 import com.itextpdf.text.Document;
-import com.itextpdf.text.DocumentException;
+//import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Image;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.Paragraph;
@@ -14,14 +14,13 @@ import com.itextpdf.text.pdf.PdfWriter;
  */
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 public class Informe {
 
 
     public void pdfinforme(ArrayList<Estudiante> carrera, String carreraselected, String img) {
-
-
-
     //Document documento = new Document();
     try {
         //PdfWriter.getInstance(archivo, new FileOutputStream("INFORME PDF"));//Instanciamos el archivo
@@ -32,13 +31,12 @@ public class Informe {
         //Insertar imagen
         /*Header and Footer*/
         writer.setInitialLeading(16);
-
         HeaderFooter top = new HeaderFooter(carreraselected);//Mensaje del header = carrera que seleciono el usuario
         writer.setPageEvent(top);
         documento.open();//Abrimos el documento
         try
         {
-            Image foto = Image.getInstance(img);//Logo 
+            Image foto = Image.getInstance(img);//Logo
             foto.scaleToFit(500, 600);
             foto.setAlignment(Chunk.ALIGN_MIDDLE);
             documento.add(foto);
@@ -47,7 +45,6 @@ public class Informe {
         {
             e.printStackTrace();
         }
-
         documento.add(new Paragraph("\n\nCarrera: "+carreraselected+"\n\n"));
         PdfPTable primera = new PdfPTable(4);//Generamos la columnas para la primera fila de la tabla
         primera.addCell("NOMBRE");//Agregamos a cada celda lo que deseamos
@@ -57,20 +54,23 @@ public class Informe {
         documento.add(primera);
         PdfPTable tabla = new PdfPTable(4);//Generamos la columnas
         for (Estudiante z : carrera) {
-
             tabla.addCell(z.getNombre());
             tabla.addCell(z.getApellido());
             tabla.addCell(z.getcedula());
             tabla.addCell(z.getSexo());
         }
         documento.add(tabla);//Agregamos la tabla al documento
-
-
         documento.close(); // Serramos el documento
     } catch (Exception e) {
         e.printStackTrace();
     }
-
+    }
+    public void txtinforme(ArrayList<Estudiante> carrera) throws IOException{
+        FileWriter txt = new FileWriter("Informe.txt");
+        for (Estudiante estudiante : carrera) {
+            txt.write(estudiante.getNombre()+"\t"+estudiante.getApellido()+"\t"+estudiante.getcedula()+"\t"+estudiante.getSexo()+"\n");
+        }
+        txt.close();
     }
 
 }
