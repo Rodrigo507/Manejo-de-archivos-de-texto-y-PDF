@@ -1,4 +1,8 @@
 import javax.swing.*;
+/**Esta clase se encarga de deplegar mensajes 
+ * en forma grafia
+ * 
+ */
 class InteractiveIO {
 
         /*Metodos de delplegar mensajes Interfas Grafica */
