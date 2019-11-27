@@ -1,56 +1,55 @@
-MARIANELA            AGRAZAL M.        06-00-0720-01834  F         
-KRISTEL              URRIOLA           09-00-0731-02028  F         
-YOLMARYS             GONZALEZ          09-00-0735-00569  F         
-DORALIS              TENORIO           09-00-0741-00993  F         
-IRIS                 ARENA             09-00-0747-00776  F         
-DIANA                BERNAL            09-00-0747-02404  F         
-ROCIO                CONCEPCION        09-00-0749-02464  F         
-ALICIA               CARPINTERO        09-00-0751-00807  F         
-MARYENIS             CASTILLO          09-00-0751-01708  F         
-KENIA E.             GOMEZ M.          09-00-0752-00883  F         
-KRYSTIN              GONZALEZ          09-00-0753-01284  F         
-ROSMERY              SANTOS            09-00-0753-01320  F         
-GLORIS D.            CEDEÑO B.         09-00-0754-00699  F         
-GENESIS              ORTIZ             09-00-0755-01414  F         
-ANDREINA             VILLARREAL        09-00-0756-01219  F         
-ARLENYS              GARCIA            09-00-0757-00167  F         
-LEONARDO             RINCON            00-EC-0043-00525  M         
-DANIEL               DELGADO           01-00-0736-01088  M         
-FAUSTINO             AGUILAR QUIROS    02-00-0732-00727  M         
-CELSO                PEREZ             02-00-0740-01806  M         
-JESUS                MORALES           04-00-0802-02351  M         
-FERNANDO             VILLARREAL        06-00-0711-01562  M         
-RODOLFO              QUINTERO          06-00-0719-00043  M         
-DOMINGO              VEGA              06-00-0719-02441  M         
-LUIS CARLOS          BERNAL GONZÁLEZ   06-00-0723-01121  M         
-CARLOS               CAMPOS            06-00-0724-00160  M         
-WILFREDO             RIVERA            08-00-0908-01108  M         
-JAFET A.             DE GRACIA M.      08-00-0920-02458  M         
-MARVIN ABEL          MOJICA RUJANO     08-00-0958-00926  M         
-TOMAS                MADRID            09-00-0739-00798  M         
-CRISTIAN             PEREZ             09-00-0745-01191  M         
-JEANCARLO            ALMANZA           09-00-0747-01975  M         
-TOMAS                ARMUELLES         09-00-0749-00188  M         
-DIOMAR ELIECER       MOJICA CAMÑO      09-00-0749-02169  M         
-OMAR                 REYES             09-00-0751-01147  M         
-CARLOS               CONCEPCION        09-00-0751-01500  M         
-DELVIN               TUÑON             09-00-0752-00555  M         
-JORGE                PINZON            09-00-0752-01024  M         
-ELOY                 BARRIA            09-00-0752-01294  M         
-DIEGO                JIMENEZ           09-00-0752-02417  M         
-GABRIEL              CASTILLO          09-00-0752-02479  M         
-STEVEN KHAIL         ALVARADO VALDES   09-00-0753-00332  M         
-DEYVIS               HERNANDEZ         09-00-0753-01905  M         
-EDGAR                ARRITOLA          09-00-0754-00312  M         
-JOSUE                MOJICA            09-00-0754-00724  M         
-JUAN                 VERGARA           09-00-0754-01296  M         
-LEONARDO             BATISTA           09-00-0755-00422  M         
-ANTHONY              DELGADO           09-00-0755-00685  M         
-DAVID                MONTOYA           09-00-0755-00833  M         
-JEFTE                HERNANDEZ         09-00-0755-00992  M         
-JESÚS                AGUDO             09-00-0755-01542  M         
-NORIEL               BARRIA            09-00-0755-01785  M         
-ELADIO               MADRID            09-00-0756-00708  M         
-CARLOS               CANTO             09-00-0756-00751  M         
-JOSE                 ABREGO            09-00-0756-01449  M         
-ISRAEL               MARQUEZ           10-00-0712-01709  M         
+MARIA                EYSERIC           04-00-0777-02219  F         
+ARACELLY             ALONSO            05-00-0716-00432  F         
+LILIBETH             CHAVEZ            06-00-0723-01419  F         
+DIDIANETH            RANGEL            08-00-0933-01241  F         
+YENIZETH Y.          GONZALEZ T.       09-00-0702-01527  F         
+ERICKA               ABREGO            09-00-0720-01662  F         
+HEYDI                ABREGO            09-00-0741-01691  F         
+VANESSA              QUIEL             09-00-0742-01707  F         
+MAYRA                ARENAS            09-00-0742-02465  F         
+VANESSA              GARCIA            09-00-0744-00726  F         
+PORFIRIA             RODRIGUEZ         09-00-0749-00254  F         
+MAHELYS              TERREROS          09-00-0750-00283  F         
+ESMERALDA            BALLESTEROS       09-00-0750-00600  F         
+NORIELYS             APARICIO          09-00-0750-02212  F         
+NORIS                VARGAS            09-00-0751-00488  F         
+MARTHA               PITTY             09-00-0751-00693  F         
+AMAIRANYS            SANDOVAL          09-00-0751-01082  F         
+NEYRIS               GONZALEZ          09-00-0752-00117  F         
+ARLENYS              BATISTA           09-00-0753-01470  F         
+MELANIE              OVIEDO            09-00-0754-02029  F         
+MARICARMEN           ALMANZA           09-00-0756-00153  F         
+GLENIS               RODRIGUEZ         09-00-0756-01886  F         
+ILIANA               QUINTERO          09-00-0766-00140  F         
+BERNARDO             JIMENEZ           04-00-0799-00397  M         
+MARVIN               ACOSTA            04-00-0812-00985  M         
+REYNALDO             TROITIÑO          06-00-0721-02150  M         
+EDGAR                GONZALEZ          08-00-0886-01737  M         
+EDINSON              MUDARRA           09-00-0740-00420  M         
+RIGOBERTO            CALLES            09-00-0744-00846  M         
+BERNABE              JIMENEZ           09-00-0746-01258  M         
+RAIMBET              ORTIZ             09-00-0746-01428  M         
+ISMAEL               HIDALGO           09-00-0746-02292  M         
+JOSE LUIS            ARJONA            09-00-0748-01551  M         
+YAIR                 GONZALEZ          09-00-0748-01597  M         
+CALIXTO              GONZALEZ          09-00-0749-01820  M         
+RUBIELA              SANTOS            09-00-0750-00703  M         
+ANDRES ANTONIO       GARCIA GONZALEZ   09-00-0750-01299  M         
+CHRISTOPHER          PINTO             09-00-0750-01691  M         
+HECTOR               DE GRACIA         09-00-0751-00179  M         
+AMIR                 ACOSTA            09-00-0751-01368  M         
+DAVID                ABREGO            09-00-0751-02448  M         
+RODRIGO              GUTIERREZ         09-00-0752-01220  M         
+JESUS                PINEDA            09-00-0752-01853  M         
+HENRY                SANTAMARIA        09-00-0752-02128  M         
+JONATHAN             MUÑOZ             09-00-0752-02380  M         
+JORGE                SANCHEZ           09-00-0753-00407  M         
+HECTOR               GUEVARA           09-00-0753-01333  M         
+EDGARDO              RIOS              09-00-0753-02209  M         
+JESAID               TORIBIO           09-00-0754-01324  M         
+JUAN                 DUARTE            09-00-0755-00739  M         
+JOSE                 SANCHEZ           09-00-0755-00803  M         
+DAVID                RODRIGUEZ         09-00-0756-01123  M         
+JAIRO                RODRIGUEZ         09-00-0757-00202  M         
+ADAN                 AGUILAR           09-00-0761-01115  M         
+NORBERTO             QUINTERO          12-00-0704-00457  M         
