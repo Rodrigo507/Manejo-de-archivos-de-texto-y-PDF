@@ -91,7 +91,7 @@ public class Principal {
         Collections.sort(tecnico);
         Collections.sort(licenciatura);
         if (carreraselect.equals("LIC. DE INGENIERIA EN INFORMATICA")) {
-            crear.pdfinforme(ingeneria,carreraselect,"imagenes/lii.png");
+            crear.pdfinforme(ingeneria,carreraselect);
             crear.txtinforme(ingeneria);
             for (Estudiante estudiante : ingeneria) {
                 if (estudiante.getSexo().equals("M")) {
@@ -100,9 +100,9 @@ public class Principal {
                     femenino++;
                 }
             }
-            mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
+            mensajes.desplegarINFORMA("SE GENERARON LOS INFORMES CORRECTAMENTE","INFORME");
         }else if (carreraselect.equals("TECNICO EN INFORMATICA EDUCATIVA")) {
-            crear.pdfinforme(tecnico,carreraselect,"imagenes/tecnico.png");
+            crear.pdfinforme(tecnico,carreraselect);
             crear.txtinforme(tecnico);
             for (Estudiante estudiante : tecnico) {
                 if (estudiante.getSexo().equals("M")) {
@@ -111,9 +111,9 @@ public class Principal {
                     femenino++;
                 }
             }
-            mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
+            mensajes.desplegarINFORMA("SE GENERARON LOS INFORMES CORRECTAMENTE","INFORME");
         }else if(carreraselect.equals("LIC. PARA LA GESTION EDUC Y EMPRESA")) {
-            crear.pdfinforme(licenciatura,carreraselect,"imagenes/ligee.png");
+            crear.pdfinforme(licenciatura,carreraselect);
             crear.txtinforme(licenciatura);
             for (Estudiante estudiante : licenciatura) {
                 if (estudiante.getSexo().equals("M")) {
@@ -122,7 +122,7 @@ public class Principal {
                     femenino++;
                 }
             }
-            mensajes.desplegarINFORMA("SE A GENERADO EL INFORME CORRECTAMENTE","INFORME");
+            mensajes.desplegarINFORMA("SE GENERARON LOS INFORMES CORRECTAMENTE","INFORME");
         }
         mensajes.desplegarINFORMA("MASCULINOS: "+ porncentaje(masculino,femenino)+"%"+"\nFEMENINAS: "+porncentaje(femenino, masculino)+"%"+"\n Total: "+(masculino+femenino), "Porcentaje Por Sexo");
 
