@@ -1,51 +1,46 @@
-/*IMPORTACION DE DE itextpdf */
-
 import com.itextpdf.text.Chunk;
 import com.itextpdf.text.Document;
-//import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Image;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
-
-/**
- * Informe
- */
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
+/**
+ * Esta clase se encarga de la generacion de los documentos
+ * tanto el PDF
+ * como el arhcivo secuencial .txt
+ */
 public class Informe {
 
 
-    public void pdfinforme(ArrayList<Estudiante> carrera, String carreraselected, String img) {
-    //Document documento = new Document();
+    public void pdfinforme(ArrayList<Estudiante> carrera, String carreraselected) {
+    
     try {
-        //PdfWriter.getInstance(archivo, new FileOutputStream("INFORME PDF"));//Instanciamos el archivo
-        FileOutputStream archivo = new FileOutputStream("Informe.pdf");
-        Document documento = new Document(PageSize.A4, 20, 50, 50, 50);
-        //Document documentos = new Document(pageSize, marginLeft, marginRight, marginTop, marginBottom);
-        PdfWriter writer =PdfWriter.getInstance(documento, archivo);
+        
+        FileOutputStream archivo = new FileOutputStream("Informe.pdf");//Ruta donde se guardara el documento
+        Document documento = new Document(PageSize.A4, 20, 50, 50, 50);//Tamanno de hoja y le asignamos los margenes
+        PdfWriter writer =PdfWriter.getInstance(documento, archivo);//Creamos el pdfwrite que nos permite la creacion del pdf
         //Insertar imagen
         /*Header and Footer*/
         writer.setInitialLeading(16);
-        HeaderFooter top = new HeaderFooter(carreraselected);//Mensaje del header = carrera que seleciono el usuario
-        writer.setPageEvent(top);
+        HeaderFooter top = new HeaderFooter("Programacion IV-INF222");//Mensaje del header = carrera que seleciono el usuario
+        writer.setPageEvent(top);//Agregamos el header antes de abrir el documento
         documento.open();//Abrimos el documento
         try
         {
-            Image foto = Image.getInstance(img);//Logo
-            foto.scaleToFit(500, 600);
-            foto.setAlignment(Chunk.ALIGN_MIDDLE);
-            documento.add(foto);
+            Image foto = Image.getInstance("imagenes/ligee.png");//Instanciamos la imagen
+            foto.scaleToFit(500, 600);//Le pasamos laas dimenciones de la imagen
+            foto.setAlignment(Chunk.ALIGN_MIDDLE);//Asignamos un espacio en el documneto en este caso en el centro 
+            documento.add(foto);//Agregamos la imagen al documento
         }
         catch ( Exception e )
         {
             e.printStackTrace();
         }
-        documento.add(new Paragraph("\n\nCarrera: "+carreraselected+"\n\n"));
+        documento.add(new Paragraph("\n\nCarrera: "+carreraselected+"\n\n"));//Agregamos una nueva linea con una cadena
         PdfPTable primera = new PdfPTable(4);//Generamos la columnas para la primera fila de la tabla
         primera.addCell("NOMBRE");//Agregamos a cada celda lo que deseamos
         primera.addCell("APELLIDO");//Agregamos a cada celda lo que deseamos
@@ -53,6 +48,7 @@ public class Informe {
         primera.addCell("SEXO");//Agregamos a cada celda lo que deseamos
         documento.add(primera);
         PdfPTable tabla = new PdfPTable(4);//Generamos la columnas
+        //Agregamos a cada celda una dato del objeto
         for (Estudiante z : carrera) {
             tabla.addCell(z.getNombre());
             tabla.addCell(z.getApellido());
@@ -67,18 +63,20 @@ public class Informe {
     }
     public void txtinforme(ArrayList<Estudiante> carrera) {
         try {
-            FileWriter txt = new FileWriter("Informe.txt");
-            
+            FileWriter txt = new FileWriter("Informe.txt");//creamos el archivo
+
         for (Estudiante estudiante : carrera) {
+            //Recorremos los datos del objeto que estan alamacenados en el array
+            //Con la ayuda  del "String format" le damos una sepacion entre los datos
             String z=String.format("%-20s %-17s %-17s %-10s%n", estudiante.getNombre(),estudiante.getApellido(),estudiante.getcedula(),estudiante.getSexo());
-            txt.write(z);
+            txt.write(z);//Agregamos la cadena al archivo
         }
-        txt.close();
+        txt.close();//Cerramos el archivo txt
         } catch (Exception e) {
-            //TODO: handle exception
+           System.err.println(e);
         }
-        
-        
+
+
     }
 
 }
