@@ -11,19 +11,20 @@ import com.itextpdf.text.pdf.PdfWriter;
  */
 public class HeaderFooter extends PdfPageEventHelper {
     private String cadena;
+    /***************************************/
+    /*creamos fuentes de texo para el Header y Footer */
     private static Font headerFont = new Font(Font.FontFamily.COURIER , 8, Font.NORMAL);
-
     private static Font footerFont = new Font(Font.FontFamily.TIMES_ROMAN, 12, Font.BOLD);
+    /***************************************/
+    /*Constructor de la clase- Recibe una cadena que es el header */
     public HeaderFooter(String cad) {
         super();
         this.cadena = cad;
     }
-
+    /**************************************/
     @Override
     public void onEndPage(PdfWriter writer, Document document) {
-        // TODO Auto-generated method stub
-        // super.onEndPage(writer, document);
-        // header content
+
         String headerContent =  cadena;
 
         
