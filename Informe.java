@@ -41,15 +41,10 @@ public class Informe {
         documento.add(new Paragraph("\n\nCarrera: "+carreraselected+"\n\n"));//Agregamos una nueva linea con una cadena
         //PdfPTable primera = new PdfPTable(4);//Generamos la columnas para la primera fila de la tabla
         PdfPTable tabla = new PdfPTable(4);//Generamos la columnas
-        tabla.setWidths(new int[]{200,200,200,50});
         tabla.addCell("NOMBRE");//Agregamos a cada celda lo que deseamos
         tabla.addCell("APELLIDO");//Agregamos a cada celda lo que deseamos
         tabla.addCell("CEDULA");//Agregamos a cada celda lo que deseamos
         tabla.addCell("SEXO");//Agregamos a cada celda lo que deseamos
-       // documento.add(tabla);
-       // PdfPTable tabla = new PdfPTable(4);//Generamos la columnas
-
-        //primera.setWidths(new int[]{200,200,200,100});
         tabla.setWidths(new int[]{200,200,200,80});
         //Agregamos a cada celda una dato del objeto
         for (Estudiante z : carrera) {
@@ -58,13 +53,12 @@ public class Informe {
             tabla.addCell(z.getcedula());
             tabla.addCell(z.getSexo());
 
-        }
-        
+        }      
         documento.add(tabla);//Agregamos la tabla al documento
         documento.close(); // Serramos el documento
-    } catch (Exception e) {
-        e.printStackTrace();
-    }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
     public void txtinforme(ArrayList<Estudiante> carrera) {
         try {
@@ -80,8 +74,5 @@ public class Informe {
         } catch (Exception e) {
            System.err.println(e);
         }
-
-
     }
-
 }
