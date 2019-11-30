@@ -1,10 +1,10 @@
-/**
- * Estudiante
+import java.util.ArrayList;
+
+/* Estudiante
  * Esta clase nos permite la creacion de objetos
- * ademas que contiene metodos para devolver los datos
- */
+ * ademas que contiene metodos para devolver los datos*/
 public class Estudiante implements Comparable<Estudiante>{//Implementamos la interface Comparable
-    /*Encapsulación de los datos(atributos) del objeto*/
+    /*Encapsulacion de los datos(atributos) del objeto*/
     private  String cedula;
     private  String apellido;
     private  String nombre;
@@ -21,10 +21,11 @@ public class Estudiante implements Comparable<Estudiante>{//Implementamos la int
         this.turno=tur;
         this.anno=an;
     }
-    /********************************************/
-    /*METODOS */
-    /**
-     * Con estos metodos
+    public Estudiante() {
+	}
+	/********************************************/
+    /*METODOS*/
+    /* Con estos metodos
      * devolvemos los atributos del objeto
      */
     public String getcedula() {
@@ -52,6 +53,15 @@ public class Estudiante implements Comparable<Estudiante>{//Implementamos la int
     @Override
     public int compareTo( Estudiante o) {
         return(this.sexo.compareTo(o.sexo));
-    }    
-   
+    }
+    /*Metodo que nos debuelve el total de X sexo */
+    public int totalSexo(String sexx, ArrayList<Estudiante> datos) {
+        int total=0;
+        for (Estudiante estudiante : datos) {
+            if (estudiante.getSexo().equals(sexx)) {
+                total++;
+            }
+        }
+        return(total);
+    }
 }
