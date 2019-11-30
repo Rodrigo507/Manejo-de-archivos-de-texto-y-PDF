@@ -25,18 +25,12 @@ public class HeaderFooter extends PdfPageEventHelper {
     @Override
     public void onEndPage(PdfWriter writer, Document document) {
 
-        String headerContent =  cadena;
-
-        
-        /*
-         * Header
-         */
+        String headerContent =  cadena; 
+        /*Header*/
         ColumnText.showTextAligned(writer.getDirectContent(), Element.ALIGN_LEFT, new Phrase(headerContent,headerFont),
                 document.leftMargin() - 1, document.top() + 30, 0);
 
-        /*
-         * Foooter
-         */
+        /*Foooter*/
         ColumnText.showTextAligned(writer.getDirectContent(), Element.ALIGN_RIGHT, new Phrase(String.format(" %d ",writer.getPageNumber()),footerFont), document.right() - 2 , document.bottom() - 20, 0);
     }
     
